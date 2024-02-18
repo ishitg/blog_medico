@@ -1,0 +1,150 @@
+.home{
+    background-color: white;
+    border-radius: 8px;
+    
+}
+.home1{
+    color: black;
+}   
+.navy
+{
+    background-color: teal;
+}
+.posty1
+{
+  color: #f5f5f7;
+}
+.footy
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+.container1{
+    max-width: 100%;
+    padding-right: 0px;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+/* *, ::after, ::before {
+    box-sizing:unset;
+} */
+.yooo{
+    padding-right: 100px;
+}
+.wrapper{
+    display: grid;  
+    height: 100vh;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 200px;
+    gap: 1px;
+
+}
+#item1{
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    margin-left: 95px;
+    margin-top: 75px;
+    width: 87%;
+    height: 100%;
+    
+    
+}
+#item2{
+    background-color: #1f1f1f;
+    border-radius: 20px;
+    /* margin-left: 95px; */
+    /* padding-left: 0; */
+    margin-top: 75px;
+    width: 75%;
+    height: 100%;   
+    
+}
+.homie{
+    background-color: black;
+}
+
+
+
+.conty3{
+
+    background-color: rgba(22, 22, 23, .8);
+}
+
+body {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+#create-edit {
+    height: 100%;
+}
+
+.content {
+    background-color: #ecf3f4;
+    color: black;
+    border-radius: 20px;
+}
+
+.content ul {
+    list-style: none;
+}
+
+.content a {
+    color: teal;
+}
+
+.content a:hover {
+    color: #88939b;
+}
+
+.pt-serif {
+    font-family: 'PT Serif', serif;
+}
+
+footer a {
+    color: #D6D9DB !important;
+}
+
+.button-rad {
+    border-radius: 30px;
+}
+
+.dark-form {
+    background-color: #1A1A1B;
+    color: white !important;
+}
+.dark-form::placeholder {
+    color: #D7DADC;
+}
+.dark-form:focus {
+    background-color: #1A1A1B;
+    border-color: #88939b;
+}
+
+.mimi{
+    margin-top: 1.5rem!important;
+    margin-bottom: 0rem!important;
+}
+
+.imger{
+   position: relative;
+   right: 600px;
+   margin-top: 5px;
+   width: fit-content;
+
+   
+}
+h1{
+
+  font-family: "Montserrat", sans-serif;
+}
+
+.butto
+{
+    background-color: teal;
+    color: white;
+}
+
