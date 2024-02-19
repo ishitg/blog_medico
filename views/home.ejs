@@ -15,7 +15,7 @@
                     <li class="p-1">
                         <p class="fs-6 fw-light"><%= posts[index].date %></p>
                         <h3 class="fs-2 pt-serif"><a href="/view/<%= posts.indexOf(posts[index]) %>"><%= posts[index].title %></a></h3>
-                        <p class="fs-5 my-4"> <%- (posts[index].content).substring(0,700) + "..." %> <a href="/view/<%= posts.indexOf(posts[index]) %>">Read More</a> </p>
+                       <%- (posts[index].content).substring(0,800) + "..." %> <a href="/view/<%= posts.indexOf(posts[index]) %>">Read More</a>
                         <hr>
                     </li>
                 <% } %>
